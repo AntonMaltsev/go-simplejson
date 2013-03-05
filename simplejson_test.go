@@ -2,7 +2,7 @@ package simplejson
 
 import (
 	"encoding/json"
-	"github.com/bmizerany/assert"
+	"assert"
 	"io/ioutil"
 	"log"
 	"strconv"
